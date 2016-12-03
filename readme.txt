@@ -6,3 +6,4 @@ testing a branch
 testing newnew now
 testing real newnew
 Creating a new branch is quick and simple.
+NEw merge test
